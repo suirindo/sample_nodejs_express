@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/suirindo/sample_nodejs_express/issues"
   },
-  "homepage": "https://github.com/suirindo/sample_nodejs_express#readme"
+  "homepage": "https://github.com/suirindo/sample_nodejs_express#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
